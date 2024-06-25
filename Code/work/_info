@@ -1,0 +1,44 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+vmyStack
+Z1 IYzofOaM9XO`Xe`z]T3;<E0
+Z2 VI7_BlRongXc]:XPL5e7=l3
+Z3 dF:\study\University\semester4\dsd\midterm\q1
+Z4 w1719325010
+Z5 8F:/study/University/semester4/dsd/midterm/q1/stack.v
+Z6 FF:/study/University/semester4/dsd/midterm/q1/stack.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|F:/study/University/semester4/dsd/midterm/q1/stack.v|
+Z9 o-work work -O0
+Z10 nmy@stack
+!i10b 1
+Z11 !s100 e@m5IGR=Ph7eg3_gW@RCi1
+!s85 0
+Z12 !s108 1719325013.605000
+Z13 !s107 F:/study/University/semester4/dsd/midterm/q1/stack.v|
+!s101 -O0
+vstimulus
+!i10b 1
+Z14 !s100 cM9hkY13;1KfBagddAFNM1
+Z15 I>n]Q9O4Ni``4LQ]^j@eE`3
+Z16 Vj_kQ[Pef^WSz:;eABMRPQ3
+R3
+Z17 w1719324167
+Z18 8F:/study/University/semester4/dsd/midterm/q1/stimulus.v
+Z19 FF:/study/University/semester4/dsd/midterm/q1/stimulus.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1719325013.704000
+!s107 F:/study/University/semester4/dsd/midterm/q1/stimulus.v|
+Z20 !s90 -reportprogress|300|-work|work|F:/study/University/semester4/dsd/midterm/q1/stimulus.v|
+!s101 -O0
+R9
